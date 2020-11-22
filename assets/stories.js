@@ -1,6 +1,6 @@
 export default [
-  "Aku ...",
-  "Sayang ...",
+  "Tiara aku ...",
+  "Benci sama",
   "Kamu....",
   "Aku sayang kamu!"
 ];
